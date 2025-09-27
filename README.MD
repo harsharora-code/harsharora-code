@@ -11,7 +11,7 @@ I'm Full-Stack Developer..
 ### Tech Stack
 
 Languages: 
-<code>C++</code> <code>Python</code> <code>Java</code>
+<code>C++</code>  <code>Java</code>  <code>Javascript</code>  <code>typescript</code>
 
 Frontend & Backend:
 <code>React</code> <code>Express.js</code> <code>FastAPI</code> <code>Node.js</code>
