@@ -11,17 +11,15 @@ I'm Full-Stack Developer..
 ### Tech Stack
 
 Languages: 
-<code>C++</code>  <code>Java</code>  <code>Javascript</code>  <code>typescript</code> <code> Rust </code>
+<code>C++</code>  <code>Java</code>  <code>Javascript</code>  <code>typescript</code> <code>Rust</code>
 
 Frontend & Backend:
-<code>React</code> <code>Express.js</code> <code>FastAPI</code> <code>Node.js</code>
+<code>React.js</code> <code>Next.js</code> <code>Express.js</code> <code>REST APIs</code> <code>Node.js</code> <code>Bun</code>
 
 Databases:
-<code>MongoDB</code> <code>MySQL</code> <code>PostgreSQL</code> <code>Firebase</code>
+<code>MongoDB</code> <code>MySQL</code> <code>PostgreSQL</code> <code>Redis</code>
 
-
-
-Tools & Cloud:  <code>OpenCV</code> <code>Matplotlib</code> <code>Docker</code> <code>AWS</code> <code>Git</code>
+Tools & Cloud: <code>Docker</code> <code>AWS</code> <code>Git</code> <code>Terraform</code> <code>Anisble</code>
 
 
   <br>
